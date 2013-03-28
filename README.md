@@ -1,4 +1,4 @@
-TbYiiComponents
+TbYiiWidgets
 ===============
 
 компоненты админки на Yii c использованием TwitterBootstrap - генератор таблиц, форм, меню и подменю и т.д.
